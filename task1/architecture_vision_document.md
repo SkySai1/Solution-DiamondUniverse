@@ -64,6 +64,8 @@
 # 6. Общее представление архитектуры.
 ## 6.1 AS IS
 
+![AS-IS диаграмма](<DIamonSolution-AS IS.drawio.svg>)
+
 
 
 
